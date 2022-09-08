@@ -40,6 +40,8 @@ main {
   padding: 20px;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+  flex-grow: 1;
 }
 
 .box-item {
